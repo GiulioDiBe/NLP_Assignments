@@ -1,4 +1,4 @@
-#NLP Language Classifier Assignment:
+# NLP Language Classifier Assignment:
 
 Given the assignment of coding a language classifier able to distinguish between english and non-english texts I decided
  to choose the genesis corpus wich contains the entirety of the first book of the old testament in various languages.
@@ -11,8 +11,8 @@ the sets contained a part of each language.
 The performances resulted in
 	Accuracy of 	0.993263
 	Precision of 	1.000000
-	Recall of 		0.989446
-	F1 of 			0.994695
+	Recall of 	0.989446
+	F1 of 		0.994695
 ```
 this kind of values make me think that maybe the languages chosen english, finnish and portuguese are almost completly
 different in terms of words so the classifier has an easy work. Maybe choosing more germanic languages will make the 
