@@ -21,5 +21,3 @@ classifier less precise and accurate given the possible similarities.
 We could employ this classifier as a Language Probabilistic Model given that it determines the probability of each sen-
 tence being written in a certain language by computing the probability of each word.
 After doing so for each language given it selets the highest probability and than labels the sentence as english or not english.
-
-link to the code(Classifier.ipynb):
